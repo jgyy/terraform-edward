@@ -16,3 +16,10 @@ As it is not secure to dump public or private key in the repo, i have placed in 
 ```bash
 ssh-keygen -f /tmp/mykey
 ```
+
+## Deleting .terraform folder
+Do remove the .terraform folder as it is consuming a lot of local storage
+
+```bash
+rm -rf .terra*
+```

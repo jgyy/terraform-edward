@@ -16,3 +16,4 @@ ubuntu ip 172.31.22.188
 windows ip 172.31.18.150
 windows ip 172.31.24.85
 windows ip 172.31.20.225
+windows ip 172.31.28.247
